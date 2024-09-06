@@ -17,7 +17,6 @@ const WINNING_COMBINATIONS = [
 let xTurn;
 let gameActive;
 
-
 startGame();
 
 resetButton.addEventListener('click', startGame);
